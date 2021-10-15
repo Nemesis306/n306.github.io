@@ -1,2 +1,2 @@
-# My First Heading
-My first paragraph.
+# Evet, Github'da site açılabileceğini yeni keşfettim
+Buralar şimdilik boş kalacak. Belki ileride kullanırım.
